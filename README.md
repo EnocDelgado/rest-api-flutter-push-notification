@@ -1,4 +1,4 @@
-# Servidor para generar un Bearer Token de Firebase
+# Firebase Bearer Token Generation Server
 
 [Documentación oficial de Firebase](https://firebase.google.com/docs/cloud-messaging/auth-server)
 
