@@ -2,15 +2,15 @@
 
 [Documentación oficial de Firebase](https://firebase.google.com/docs/cloud-messaging/auth-server)
 
-## Pasos
+## Steps
 
-1. Instalar las dependencias
+1. Install the dependencies
 ```
 npm install
 ```
 
-2. Obtener el archivo de configuración de Firebase (firebase-admin.json)
-3. Levantar el servidor
+2. Get the Firebase configuration file (firebase-admin.json)
+3. Get the server up
 ```
 node app
 ```
